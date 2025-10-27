@@ -1,24 +1,15 @@
-## 🔌 Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles
+## 🔌 Community Lounge Space Activation Posters at Power Platform Community Conference
 
-This repository is for the "Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles" workshop at the Microsoft Power Platform Conference on Sunday, October 1st, in Las Vegas.
+This repository is for the interactive Posters in the Community Lounge at Level 3 of MGM Convention Center at the Power Platform Community Conference in Las Vegas, October 2025.
 
-![Microsoft Power Platform Conference Logo](./ppc-logo.svg)
+## 🚀 Posters
 
-## 📝 Workshop description
+Select the filename in the repo that corresponds to the poster you want to download.
 
-Ready to unlock the potential of human-centered innovation? Join us in this immersive workshop as we delve into the principles of design thinking to build engaging experiences with Power Platform. Through hands-on exercises and thought-provoking discussions, you'll discover how to create solutions that make a lasting impact on your users. From uncovering insights to building for inclusivity, we'll guide you through Microsoft's renowned design process. Gain a deeper understanding of your users, harness the power of collaboration, and leave with a fresh perspective and actionable strategies to drive transformative change in your organization.
-
-## 🚀 Labs
-
-Select the filename in the repo that corresponds to the workshop module you want to revisit.
-
-- [Lab 01: Effective ideation through brainstorming]
-- [Lab 02: Introduction of Human Centered Design Principles]
-- [Lab 03: Customer interviews]
-- [Lab 04: Who are your users?  ]
-- [Lab 05: Understanding business needs: Jobs To Be Done]
-- [Lab 06: Mapping jobs to platform product capabilities]
-- [Lab 07: How to sell your ideas ]
+- [Poster 01: AI Transformation Journey]
+- [Poster 02: Return on Investment for AI]
+- [Poster 03: Future Proofing AI Agents]
+- [Poster 04: We Want to Hear From You!]
 
 ## ™️ Trademarks
 

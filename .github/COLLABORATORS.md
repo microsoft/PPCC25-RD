@@ -4,7 +4,7 @@
 
 ### Quick Steps to Add a Collaborator
 
-1. **Go to Repository Settings**: Navigate to https://github.com/microsoft/PPCC25-RD/settings/access
+1. **Go to Repository Settings**: Navigate to the repository on GitHub, click **Settings**, then **Collaborators and teams** (or go directly to `https://github.com/microsoft/PPCC25-RD/settings/access` for this repository)
 2. **Add People/Teams**: Click "Add people" or "Add teams"
 3. **Search**: Find the GitHub username or team name
 4. **Set Permissions**: Choose the appropriate level:

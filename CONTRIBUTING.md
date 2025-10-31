@@ -14,7 +14,7 @@ If you need to add collaborators who can review, approve, and merge pull request
 
 #### Option 1: Add Individual Collaborators
 
-1. Navigate to the repository on GitHub: https://github.com/microsoft/PPCC25-RD
+1. Navigate to the repository on GitHub: `https://github.com/microsoft/PPCC25-RD` (or your repository URL)
 2. Click on **Settings** (you need admin access to see this)
 3. In the left sidebar, click **Collaborators and teams**
 4. Click **Add people** or **Add teams**
@@ -31,7 +31,7 @@ If you need to add collaborators who can review, approve, and merge pull request
 
 For organization repositories, it's recommended to use Teams for better management:
 
-1. Go to your organization's page: https://github.com/microsoft
+1. Go to your organization's page: `https://github.com/microsoft` (or your organization URL)
 2. Click on **Teams**
 3. Create a new team or select an existing one
 4. Add members to the team

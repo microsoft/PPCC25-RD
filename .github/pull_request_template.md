@@ -29,7 +29,7 @@ Fixes #
 
 <!-- Please check all items using "x" before submitting -->
 
-- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guidelines
+- [ ] I have read the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines
 - [ ] My changes follow the project's style and guidelines
 - [ ] I have tested my changes
 - [ ] I have updated documentation as needed

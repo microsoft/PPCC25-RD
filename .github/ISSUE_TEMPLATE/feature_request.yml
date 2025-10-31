@@ -1,0 +1,51 @@
+name: Feature Request
+description: Suggest an idea or improvement for the posters or repository
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement!
+  
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Need
+      description: Is your feature request related to a problem? Please describe.
+      placeholder: I'd like to see...
+    validations:
+      required: true
+  
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the solution you'd like
+      placeholder: I think we should...
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: poster
+    attributes:
+      label: Which poster would this affect?
+      options:
+        - Poster 01: AI Transformation Journey
+        - Poster 02: Return on Investment for AI
+        - Poster 03: Future Proofing AI Agents
+        - Poster 04: We Want to Hear From You!
+        - General/Repository
+        - All posters
+  
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions
+      description: Describe any alternative solutions or features you've considered
+  
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context, mockups, or examples about the feature request

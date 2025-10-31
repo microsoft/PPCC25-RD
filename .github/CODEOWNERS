@@ -1,0 +1,21 @@
+# Code Owners for PPCC25-RD Repository
+#
+# These owners will be automatically requested for review when someone 
+# opens a pull request that modifies files in this repository.
+#
+# Learn more about CODEOWNERS:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+# These users will be requested for review when someone opens a pull request
+* @microsoft/ppcc25-organizers
+
+# Poster files - require review from content team
+/assets/ @microsoft/ppcc25-organizers
+
+# Documentation files
+*.md @microsoft/ppcc25-organizers
+
+# Configuration and security files
+/SECURITY.md @microsoft/ppcc25-organizers
+/LICENSE @microsoft/ppcc25-organizers

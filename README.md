@@ -11,6 +11,13 @@ Select the filename in the repo that corresponds to the poster you want to downl
 - [Poster 03: Future Proofing AI Agents]
 - [Poster 04: We Want to Hear From You!]
 
+## 🤝 Contributing
+
+We welcome contributions to improve these posters and documentation! 
+
+- **For contributors**: See our [Contributing Guide](CONTRIBUTING.md) for details on how to contribute
+- **For administrators**: See the [Contributing Guide](CONTRIBUTING.md) for instructions on how to add collaborators to review and act on pull requests
+
 ## ™️ Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft

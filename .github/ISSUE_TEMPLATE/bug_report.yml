@@ -1,0 +1,55 @@
+name: Bug Report
+description: Report a bug or issue with the posters or repository
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this issue!
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a clear and concise description of the bug
+      placeholder: What went wrong?
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: poster
+    attributes:
+      label: Which poster is affected?
+      options:
+        - Poster 01: AI Transformation Journey
+        - Poster 02: Return on Investment for AI
+        - Poster 03: Future Proofing AI Agents
+        - Poster 04: We Want to Hear From You!
+        - General/Repository
+    validations:
+      required: true
+  
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. See error...
+  
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen?
+    validations:
+      required: true
+  
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context, screenshots, or information about the problem

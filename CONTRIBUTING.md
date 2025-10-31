@@ -38,6 +38,17 @@ For organization repositories, it's recommended to use Teams for better manageme
 5. Go back to the repository Settings → Collaborators and teams
 6. Add the team with the appropriate permission level
 
+#### Option 3: Configure CODEOWNERS File
+
+The repository includes a `.github/CODEOWNERS` file that automatically requests reviews from specific users or teams:
+
+1. Edit the `.github/CODEOWNERS` file
+2. Replace `@microsoft/ppcc25-organizers` with your actual team name or individual usernames
+3. You can specify different owners for different file types
+4. Commit and push the changes
+
+This ensures that the right people are automatically notified when pull requests are opened.
+
 ### For Pull Request Reviewers
 
 Once added as a collaborator with **Write** access or higher, you can:
